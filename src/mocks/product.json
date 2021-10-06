@@ -1,0 +1,14 @@
+{
+    "_id": "123127836123612",
+    "name": "produto1",
+    "quantity": 3,
+    "price": 1.40,
+    "establishment": {
+        "_id": "1293871263213612",
+        "name": "empresa ficticia",
+        "company_name": "empresa ficticia ltda",
+        "document": "18318923712731829"
+    },
+    "created_at": "isodate",
+    "updated_at": "isodate"
+}

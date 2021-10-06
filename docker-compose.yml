@@ -1,0 +1,11 @@
+version: "3.9"
+services:
+  api:
+    environment:
+      - MONGO_URL="mongo-url"
+    build: ./
+    ports:
+      - "3000:3000"
+    command: nodemon --inspect=0.0.0.0 npm start
+    volumes:
+      - "./:/usr/src/app"

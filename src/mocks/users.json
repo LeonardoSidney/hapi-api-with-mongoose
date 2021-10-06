@@ -1,0 +1,14 @@
+{
+    "_id": "2671351735",
+    "nome": "Jacinto Paulo Rego",
+    "document": "87132712398",
+    "phone": "13761267321",
+    "address": {
+        "cep": "89809800",
+        "street": "armando",
+        "city": "chapeco",
+        "uf": "sc"
+    },
+    "created_at": "ISODate",
+    "updated_at": "ISODate"
+}

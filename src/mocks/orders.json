@@ -1,0 +1,41 @@
+{
+    "_id": "13782312637123",
+    "price": 33.40,
+    "products": [{
+        "_id": "123127836123612",
+        "name": "produto1",
+        "quantity": 3,
+        "price": 1.40
+    }, {
+        "_id": "98312939128",
+        "name": "produto2",
+        "quantity": 4,
+        "price": 2.33
+    }],
+    "establishment": {
+        "_id": "1293871263213612",
+        "name": "empresa ficticia",
+        "company_name": "empresa ficticia ltda",
+        "document": "18318923712731829",
+        "address": {
+            "cep": "898989898",
+            "street": "armando",
+            "city": "chapeco",
+            "uf": "sc"
+        }
+    },
+    "user": {
+        "_id": "2671351735",
+        "nome": "usuario ficticio um",
+        "document": "87132712398",
+        "phone": "56456456",
+        "address": {
+            "cep": "898989889",
+            "street": "armando",
+            "city": "chapeco",
+            "uf": "sc"
+        }
+    },
+    "created_at": "isodate",
+    "update_at": "isodate"
+}

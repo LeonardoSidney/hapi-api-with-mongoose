@@ -1,0 +1,12 @@
+{
+  "name": "Empresa ficticia",
+  "company_name": "empresa ficticia ltda",
+  "document": "31746935000145",
+  "address": {
+    "cep": "89889989898",
+    "street": "R. rua ficticia",
+    "neighborhood": "bairro ficticio",
+    "city": "xapppp",
+    "uf": "SC"
+  }
+}
